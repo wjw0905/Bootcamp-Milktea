@@ -1,0 +1,10 @@
+.top{
+    display: flex;
+    margin: 15px auto;
+    background-color: #434343;
+    justify-content: center;
+}
+
+.top > img{
+    flex-basis: 20%;
+}
